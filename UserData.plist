@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>soundSetting</key>
+	<integer>1</integer>
+	<key>tutorialSetting</key>
+	<integer>1</integer>
+	<key>shopTutorialFinished</key>
+	<integer>0</integer>
+	<key>userTotalPoints</key>
+	<integer>0</integer>
+	<key>highscore</key>
+	<integer>0</integer>
+	<key>currentGhost</key>
+	<string>ghost01</string>
+	<key>ghostUnlocked</key>
+	<array>
+		<integer>1</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>XInitializerItem</key>
+	<string>DoNotEverChangeMe</string>
+</dict>
+</plist>
